@@ -1,4 +1,3 @@
-@[toc]
 ## [传送门](https://blog.csdn.net/xk_xx/article/details/104267525)
 C++使用otl4通过unixodbc连接postgres
 ---
